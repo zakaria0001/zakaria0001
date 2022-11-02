@@ -1,5 +1,6 @@
-Hello 🙋🏻‍♂️ , I'm NABIL Zakaria 
+Hello 🙋🏻‍♂️ , I'm Zakaria NABIL
 Software Engineer Student at EMSI CASABLANCA
+Previously FullStack Developer Intern at IDEMIA MOROCCO
 
 👨🏻‍💻 A little more about me...
 const Zakaria = {
