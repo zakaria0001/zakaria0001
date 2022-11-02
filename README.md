@@ -1,10 +1,10 @@
-**Hello 🙋🏻‍♂️ , I'm Zakaria NABIL
+**Hello 🙋🏻‍♂️ , I'm Zakaria NABIL  
 Software Engineer Student at EMSI CASABLANCA  
 Previously FullStack Developer Intern at IDEMIA MOROCCO**
   
 👨🏻‍💻 A little more about me...  
 const Zakaria = {  
-    code: ["Angular", "Python", "Java", "PHP"],  
+ <pre>code: ["Angular", "Python", "Java", "PHP"],  
     askMeAbout: ["web dev", "Databases","Tech", "app dev"],  
     technologies: {
         backEnd: {
