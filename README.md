@@ -1,16 +1,21 @@
-### Hi there 👋
+Hello 🙋🏻‍♂️ , I'm NABIL Zakaria 
+Software Engineer Student at EMSI CASABLANCA
 
-<!--
-**zakaria0001/zakaria0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 A little more about me...
+const Zakaria = {
+    code: ["Angular", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "Databases","Tech", "app dev"],
+    technologies: {
+        backEnd: {
+           PHP
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["Docker🐳"],
+        databases: ["mongoDB", "MySql", "Oracle"],
+        misc: ["Firebase","selenium", "open-cv", "php", "SuiteApp"]
+    },
+    currentFocus: "Building Social Media APP",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
