@@ -7,16 +7,16 @@ Previously FullStack Developer Intern at IDEMIA MOROCCO**
       code: ["Angular", "Python", "Java", "PHP"],  
       askMeAbout: ["web dev", "Databases","Tech"],  
       technologies: {
-          backEnd: {
-             PHP
+          backend: {
+             PHP,Java
           },    
           mobileApp: {
               native: ["Android Development"]
           },   
           devOps: ["Docker🐳"],  
           databases: ["mongoDB", "MySql", "Oracle"],   
-          misc: ["Firebase","selenium", "open-cv", "php", "SuiteApp"]. 
+          misc: ["Firebase","selenium", "open-cv", "php"]. 
       },  
-      currentFocus: "Building Social Media APP",  
+      currentFocus: "(L)earning ...",  
       funFact: "There are two ways to write error-free programs; only the third one works"  
  };
