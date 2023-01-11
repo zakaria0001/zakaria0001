@@ -5,7 +5,7 @@ Previously FullStack Developer Intern at IDEMIA MOROCCO**
 👨🏻‍💻 A little more about me...  
  <pre>const Zakaria = {  
       code: ["Angular", "Python", "Java", "PHP"],  
-      askMeAbout: ["web dev", "Databases","Tech", "app dev"],  
+      askMeAbout: ["web dev", "Databases","Tech"],  
       technologies: {
           backEnd: {
              PHP
