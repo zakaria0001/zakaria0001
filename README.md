@@ -1,22 +1,43 @@
-**Hello 🙋🏻‍♂️ , I'm Zakaria NABIL  
-Software Engineer Student at EMSI CASABLANCA  
-Previously FullStack Developer Intern at IDEMIA MOROCCO**
-  
-👨🏻‍💻 A little more about me...  
- <pre>const Zakaria = {  
-      code: ["Angular", "Python", "Java", "PHP"],  
-      askMeAbout: ["web dev", "Databases","Tech"],  
+
+# Hi, I'm Zakaria Nabil! 👋
+
+
+## 🚀 About Me
+Software Engineer Student at EMSI CASABLANCA
+
+Previously FullStack Developer Intern at IDEMIA MOROCCO
+
+👨🏻‍💻 🧠 Currently Learning New Skills
+
+💬 Ask me about [ Web Dev , Databases , Tech ]
+
+⚡️ Fun fact : "There are two ways to write error-free programs; only the third one works"  
+
+
+
+
+## 🛠 Skills
+const Zakaria = {  
+      
+      code: [ Angular, Python, Java , PHP , C# ],   
       technologies: {
           backend: {
-             PHP,Java
+             PHP , Java
           },    
           mobileApp: {
-              native: ["Android Development"]
+              native: [ Android Development ]
           },   
-          devOps: ["Docker🐳"],  
-          databases: ["mongoDB", "MySql", "Oracle"],   
-          misc: ["Firebase","selenium", "open-cv", "php"]. 
-      },  
-      currentFocus: "(L)earning ...",  
-      funFact: "There are two ways to write error-free programs; only the third one works"  
- };
+          devOps: [ Docker🐳 ],  
+          databases: [ mongoDB , MySql , Oracle ],   
+          misc: [ Firebase , Selenium , Open-cv , PHP ]. 
+        }
+}
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logoColor=white)](https://www.nabilzakaria.software/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-nabil-36259a1a5)
+
+[![twitter](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zakarianabil68)
+
