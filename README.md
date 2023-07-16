@@ -19,16 +19,16 @@ FullStack Developer Intern at FeverTokens
 ## 🛠 Skills
 const Zakaria = {  
       
-      code: [ Angular, Python, Java , PHP , C# ],   
+      code: [ Angular, Python, Java , PHP  ],   
       technologies: {
           backend: {
-             PHP , Java
+             PHP , Java , Node
           },    
           mobileApp: {
               native: [ Android Development ]
           },   
-          devOps: [ Docker🐳 ],  
-          databases: [ mongoDB , MySql , Oracle ],   
+          devOps: [ Docker 🐳 , AWS ],  
+          databases: [ MongoDB , MySql , Oracle ],   
           misc: [ Firebase , Selenium , Open-cv , PHP ]. 
         }
 }
