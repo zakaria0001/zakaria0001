@@ -9,7 +9,7 @@ FullStack Developer Intern at FeverTokens
 
 👨🏻‍💻 🧠 Currently Learning New Skills
 
-💬 Ask me about [ Web Dev , Databases , Tech ]
+💬 Ask me about [ ☕️ , Backend Dev  , DevOps ]
 
 ⚡️ Fun fact : "There are two ways to write error-free programs; only the third one works"  
 
@@ -19,17 +19,17 @@ FullStack Developer Intern at FeverTokens
 ## 🛠 Skills
 const Zakaria = {  
       
-      code: [ Angular, Python, Java , PHP  ],   
+      code: [ Java , JavaScript , TypeScript ],   
       technologies: {
           backend: {
-             PHP , Java , Node
+             PHP , SpringBoot , NodeJS
           },    
           mobileApp: {
               native: [ Android Development ]
           },   
-          devOps: [ Docker 🐳 , AWS ],  
-          databases: [ MongoDB , MySql , Oracle ],   
-          misc: [ Firebase , Selenium , Open-cv , PHP ]. 
+          devOps: [ Docker 🐳 , AWS , Azure ],  
+          databases: [ MongoDB , MySQL , Oracle ],   
+          misc: [ Firebase , Selenium , MeiliSearch , API's ]
         }
 }
 
