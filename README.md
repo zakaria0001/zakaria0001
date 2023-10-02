@@ -5,7 +5,7 @@
 ## 🚀 About Me
 Software Engineer Student at EMSI CASABLANCA
 
-FullStack Developer Intern at FeverTokens
+Previously FullStack Developer Intern at FeverTokens
 
 👨🏻‍💻 🧠 Currently Learning New Skills
 
