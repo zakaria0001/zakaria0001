@@ -4,6 +4,7 @@
 
 ## 🚀 About Me
 Software Engineer Student 
+
 Previously FullStack Developer Intern at FeverTokens
 
 👨🏻‍💻 🧠 Currently Learning New Skills
@@ -21,6 +22,7 @@ const Zakaria = {
       code: [ Java , JavaScript , TypeScript ],   
       technologies: {
           backend: {
+
              PHP , SpringBoot , NodeJS
           },    
           mobileApp: {
