@@ -1,10 +1,3 @@
-
-# Hi, I'm Zakaria Nabil! 👋
-
-
-## 🚀 About Me
-Software Engineer Student 
-
 Previously FullStack Developer Intern at FeverTokens
 
 👨🏻‍💻 🧠 Currently Learning New Skills
