@@ -1,4 +1,4 @@
-Previously FullStack Developer Intern at FeverTokens
+FullStack Developer
 
 👨🏻‍💻 🧠 Currently Learning New Skills
 
